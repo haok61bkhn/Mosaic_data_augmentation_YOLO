@@ -18,7 +18,7 @@ Cython==0.29.24
 defusedxml==0.7.1
 docutils==0.15.2
 gitdb==4.0.7
-GitPython==3.1.14
+GitPython==3.1.30
 google-auth==1.35.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
